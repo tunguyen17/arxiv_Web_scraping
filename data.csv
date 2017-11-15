@@ -1,243 +1,269 @@
 Author,Fields
-R. Blute,gr-qc;math;gr-qc;quant-ph;math;math;math;cs;math;math
-Chengyan Liu,math;math;math;physics;math;cs;math;math;math;math
-Stefan Johansson,math;math;cs;cs;physics;alg-geom;alg-geom;astro-ph;astro-ph;cond-mat
-E. Formenti,nlin;cs;physics;physics;physics;cs;cs;q-fin;q-fin;stat
-Joel Huselius,cs;cs;cs;cs;cs;gr-qc;hep-lat;hep-lat;hep-lat;hep-lat
-Svante Janson,math;math;math;math;math;math;math;math;math;cs
-Carl Balslev Clausen,patt-sol;nlin;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph
-Anders Kastberg,physics;cond-mat;cond-mat;quant-ph;physics;quant-ph;physics;physics;physics;physics
-S. G. Arutunian,physics;physics;physics;physics;physics;physics;math;math;math;math
-Carl Lagoze,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
-Steven Gottlieb,hep-lat;hep-lat;hep-lat;hep-lat;hep-lat;hep-lat;hep-lat;hep-lat;hep-lat;hep-lat
-Krishna Kumar,hep-th;nlin;cs;math;cs;math;quant-ph;quant-ph;physics;quant-ph
-Ralf Meyer,math;math;math;math;math;math;math;math;math;math
-Deborah Wallace,q-bio;q-bio;q-bio;q-bio;cond-mat;math;math;hep-ph;hep-ex;stat
-Michael Rappolt,cond-mat;physics;physics;physics;physics;alg-geom;alg-geom;alg-geom;astro-ph;astro-ph
-L. A. V. de Carvalho,gr-qc;q-bio;astro-ph;astro-ph;math-ph;quant-ph;astro-ph;math-ph;astro-ph;quant-ph
-Olga Perkovic,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;astro-ph;hep-ph;hep-ph
-Anna Lombardi,physics;q-bio;physics;physics;cond-mat;cond-mat;cond-mat;cond-mat;hep-ex;hep-ex
-Steven Boyer,math;math;math;math;math;math;math;math;math;math
-Mitchell D. Trott,math;q-bio;q-bio;cs;cs;math;quant-ph;astro-ph;cs;cs
-Pierre Lecomte,cs;math;cs;math;math;math;math;alg-geom;alg-geom;astro-ph
-Katri Huitu,hep-th;hep-ph;hep-th;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph
-Yoshimi Saito,math;math;math;math;math-ph;math;math;math;math;astro-ph
-Morris W. Hirsch,math;math;math;math;math;math;math;math;math;math
-S. A. Belbas,math;math;math;math;math;math;math;math;math;q-bio
-Suzanne M. Shontz,cs;cs;astro-ph;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
-Paul Wiggins,physics;q-bio;q-bio;stat;cond-mat;cond-mat;stat;astro-ph;physics;math
-Marten Wegkamp,stat;math;math;math;stat;stat;math;math;math;math
-W Chen,math;math;math-ph;cs;cs;cs;math;cond-mat;cs;cs
-M. Ram Murty,math;math;math;math;math;math;math;math;math;math
-Alejandro Corichi,gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;quant-ph;gr-qc;physics;gr-qc;gr-qc
-Ulf H. Danielsson,hep-th;hep-th;hep-th;astro-ph;hep-th;hep-th;hep-th;gr-qc;hep-th;hep-th
-Marcus R. Frean,q-bio;math;math;math-ph;physics;cs;math;hep-th;math;cond-mat
- XTAG Research Group,cs;cs;physics;math;physics;physics;cs;math;astro-ph;cs
-Hermann Streich,cs;cond-mat;cond-mat;hep-ph;hep-ph;hep-ph;hep-ph;hep-th;math;math
-Hatem Hadj Kacem,cs;cs;cs;math;math;math-ph;math;hep-th;hep-th;hep-th
-Oliver Schnetz,math-ph;math;hep-th;hep-th;hep-th;physics;hep-th;hep-th;math;physics
-Yeong-Lieh Lin,physics;math;math;math;math;physics;physics;math;math;math
-L. Heilbronn,math;math;hep-ex;math;math;math;nucl-ex;nucl-ex;nucl-ex;nucl-ex
-B. K. Srivastava,astro-ph;hep-ex;nucl-ex;nucl-ex;astro-ph;math;cond-mat;math;hep-ph;nucl-th
-P. Vranas,hep-lat;hep-lat;hep-lat;hep-ph;hep-lat;hep-lat;hep-lat;hep-lat;hep-lat;hep-lat
-P. Anthony,cond-mat;math;cond-mat;cond-mat;astro-ph;cs;cond-mat;cond-mat;math;cs
-Alaka Das,nlin;nlin;physics;cond-mat;cs;cs;math;physics;cs;hep-ph
-Karl Rubin,math;math;math;math;math;math;math;math;math;math
-D. Biron,q-bio;physics;cond-mat;cond-mat;quant-ph;quant-ph;quant-ph;cond-mat;cond-mat;q-bio
-Ralf D. Tscheuschner,physics;cond-mat;hep-th;physics;cond-mat;physics;physics;cond-mat;math;gr-qc
+Jean-Yves Le Boudec,math;math;math;math;math;math;math;math;math;math
+J. Onuchic,physics;cond-mat;cond-mat;physics;q-bio;cond-mat;cond-mat;q-bio;math;cond-mat
+R. Milson,cs;math;gr-qc;nlin;gr-qc;math;nlin;gr-qc;nlin;nlin
 Guodong Song,math;stat;math;math;physics;math;math;math;math;math
-W. E. Ormand,nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th
-Carson Chow,cond-mat;nlin;q-bio;adap-org;cond-mat;q-bio;q-bio;q-bio;math;q-bio
-Wei-ping Li,cond-mat;cs;math;cond-mat;cond-mat;nucl-th;math;astro-ph;cond-mat;cond-mat
-Hermann B. Frieboes,q-bio;cond-mat;cond-mat;cond-mat;cond-mat;hep-th;math;math;cond-mat;cond-mat
-R. Potenza,astro-ph;hep-ex;nucl-ex;hep-ph;nucl-ex;nucl-ex;physics;hep-ex;physics;cond-mat
-Samuel L. Krushkal,math;math;math;math;math;math;math;math;math;math
-C. W. Carlson,hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;math;physics;nucl-th;physics
-Jean-Michel Jolion,cs
-Fan Wang,math;astro-ph;math;cond-mat;cond-mat;math;nucl-th;quant-ph;astro-ph;cs
-Emilian Alexandrescu,physics;hep-ph;hep-th;hep-ph;hep-th;nucl-ex;physics;hep-ph;hep-th;hep-th
-Andreas Cap,math;math;math;math;math;math;math;math;math;math
-Luis Diambra,nlin;q-bio;cond-mat;astro-ph;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
-Richard R. Silbar,nucl-th;nucl-th;nucl-th;physics;physics;cond-mat;nucl-th;cond-mat;cond-mat;hep-ph
-Guruduth Banavar,cs;cond-mat;cond-mat;q-bio;q-bio;cs;q-bio;cond-mat;cond-mat;cond-mat
-Y. Qiao,cond-mat;cond-mat;cond-mat;math;hep-ph;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat
-E. T. Herrin,physics;physics;physics;hep-ex;physics;physics;physics;hep-ex;nucl-ex;physics
-B. Golosio,physics;physics;physics;physics;physics;physics;cs;astro-ph;cond-mat;hep-ph
-Oliver Adria,cs;alg-geom;alg-geom;astro-ph;astro-ph;astro-ph;cond-mat;cs;cs;cs
-William P. Thurston,math;math;math;math;math;math;math;math;math;math
-Steven C. Ferry,math;math;math;math;math;hep-th;math;gr-qc;math;math
-Saunder MacLane,math;astro-ph;math;math;math;math;math;math;math;math
-Jen Hom,quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;q-bio;cs
-Yuval Peres,math;math;math;math;math;math;math;math;math;math
-Stefan Boettcher,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;quant-ph;cond-mat;cond-mat;cond-mat;physics
-Kelvin Lim Mun Kit,cs;math;q-bio;q-bio;quant-ph;physics;quant-ph;math;econ;stat
-O. Adelman,math;math;astro-ph;astro-ph;astro-ph;hep-ex;cond-mat;math;cond-mat;cond-mat
-C. O'Donovan,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;math;math;math;astro-ph;astro-ph
-G. C. Ball,math-ph;math;cond-mat;math;cond-mat;math;astro-ph;math;math-ph;cond-mat
-E. Arimondo,cond-mat;cond-mat;quant-ph;cond-mat;physics;cond-mat;cond-mat;cond-mat;cond-mat;physics
-Iskander A. Taimanov,math;math;math;math;math;math;dg-ga;math;math;math
-Xin Yang,math;math;math;math;math;math;math;hep-th;math;cond-mat
-James A. Hoagland,cs;cs;gr-qc;math;math;math;gr-qc;gr-qc;math;math
-Andrei N. Soklakov,q-fin;q-fin;q-fin;q-fin;q-fin;q-fin;quant-ph;quant-ph;math-ph;quant-ph
-Martin E. Walter,math;math;math;math;cond-mat;math;cond-mat;q-alg;math-ph;math
-Yaogang Shi,cs;hep-lat;math;cond-mat;math;math;math;math;math;math
-Ulrich Behn,q-bio;patt-sol;cond-mat;physics;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;q-bio
-L. Bass,math;math;cond-mat;math-ph;physics;cs;math;physics;math;cs
-D. R. Bowman,hep-lat;hep-lat;hep-lat;hep-lat;cs;cs;cs;nucl-ex;cs;hep-lat
-Stephen C. Milne,math;math;math;math;quant-ph;quant-ph;math;hep-ex;quant-ph;math
-Esther M. Arkin,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
-E. Kolb,nucl-th;cond-mat;hep-ph;astro-ph;nucl-th;nucl-th;nucl-th;nucl-ex;astro-ph;astro-ph
-C. E. Keppel,hep-ph;hep-ph;hep-ph;nucl-th;nucl-ex;hep-ex;nucl-ex;hep-ph;physics;nucl-ex
-Dean Karlen,physics;hep-ph;hep-th;hep-th;math;math;math;math;nucl-th;nucl-th
-Sudhir Kumar Singh,quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;cs;cs;cond-mat
-J. B. Elliott,nucl-th;nucl-ex;nucl-ex;nucl-th;nucl-th;physics;nucl-th;nucl-th;nucl-th;cond-mat
-Jan P. Radomski,q-bio;cond-mat;q-bio;q-bio;q-bio;q-bio;math;math;math;math
-Yu. Orlovich,cs;cs;physics;adap-org;astro-ph;astro-ph;astro-ph;astro-ph;cond-mat;cond-mat
-Madan mohan Manokar,cs;cs;cs;math;math;cond-mat;cond-mat;cond-mat;cond-mat;math
-Gordon Smith,math;astro-ph;astro-ph;astro-ph;cond-mat;cond-mat;cond-mat;gr-qc;gr-qc;gr-qc
-Albert Schwarz,hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;math;hep-th
-Anastasia Papavasiliou,stat;math;math;math;math;math;hep-th;hep-th;hep-th;hep-th
-L. E. Flores,gr-qc;gr-qc;q-bio;math;math;math;gr-qc;cond-mat;astro-ph;nucl-ex
-J. F. Babb,physics;physics;physics;physics;physics;physics;physics;chem-ph;physics;physics
-Shige. H. Yoshimura,q-bio;math;math;math;math;math;math;math;math;math
-Fedor S. Kilin,cs;math;astro-ph;math;math;hep-ex;math;math;math;math
-Sandor P. Fekete,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
-Otmar Scherzer,math;math;math;math;math;math;math;math;math;math
-F. S. Stephens,physics;hep-ph;hep-ph;nucl-ex;hep-ph;hep-ph;hep-ph;hep-ph;hep-th;hep-ph
-M. C. Ogilvie,physics;nucl-ex;hep-lat;nucl-ex;hep-lat;hep-lat;hep-lat;astro-ph;nucl-ex;nucl-ex
-Tom Leinster,math;math;math;math;math;math;math;math;math;math
-M. P. Wand,stat;stat;math;math;math;q-bio;stat;stat;physics;gr-qc
-Harald Hempel,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
-Waipot Ngamsaad,physics;physics;physics;physics;q-bio;physics;q-bio
-F. Brau,hep-ph;quant-ph;hep-ph;physics;quant-ph;hep-ph;nucl-th;math-ph;hep-th;hep-ph
-Izu Vaisman,math;math;math;math;math;math;math;math;math;math
-Soumyadeep Paul,cs;cond-mat;cond-mat;cond-mat;stat;cs;hep-th;cs;cs;alg-geom
-John Spiletic,cs;alg-geom;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph
-E. Batista,cond-mat;cond-mat;cond-mat;gr-qc;cond-mat;cond-mat;math;cond-mat;nlin;gr-qc
-M. Baake,q-bio;solv-int;cond-mat;math;math;math-ph;cond-mat;math;math;hep-ex
-Alexandre Courbot,cs;astro-ph;astro-ph;cs;cs;cs;cs;cs;hep-th;hep-th
-Thierry Dauxois,cond-mat;physics;cond-mat;cond-mat;cond-mat;physics;cond-mat;physics;cond-mat;cond-mat
-Sibusiso Sibisi,math;stat;nlin;math;physics;physics;physics;physics
-R. Bijker,nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th
-A. Z. Menshikov,cond-mat;cond-mat;gr-qc;cond-mat;math;astro-ph;astro-ph;cond-mat;astro-ph;math
-Bradd Hart,math;math;math;math;math;math;math;math;math;math
+Takashi Nakatsukasa,nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th
+Peter L. Christiansen,hep-ph;hep-ph;hep-ph;nucl-ex;nucl-ex;cond-mat;nlin;nlin;cond-mat;math
+Michele Caselle,hep-lat;hep-lat;hep-th;hep-th;hep-th;math;cond-mat;hep-lat;hep-lat;hep-lat
+Renaud Foucart,q-fin;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;gr-qc;gr-qc
+N. P. Johnson,cond-mat;cond-mat;math;math;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+V. Alfi,cond-mat;physics;q-fin;physics;physics;q-fin;q-fin;physics;q-fin;q-fin
+Takehiko Aso,math;math;math;math;math;math;math;math;math;math
+Percy Deift,math;math-ph;math-ph;math-ph;math-ph;math;math;math;math;math
+L. Northrop,cs;astro-ph;astro-ph;astro-ph;physics;astro-ph;physics;astro-ph;astro-ph;astro-ph
+G. M. Callico,cs;math;physics;cond-mat;hep-th;hep-ph;math;physics;astro-ph;math
+Johan GB Beumee,q-fin;math-ph;astro-ph;cs;cs;cs;cs;cs;cs;cs
+R. Holman,hep-th;astro-ph;hep-ph;hep-ph;hep-ph;hep-th;hep-ph;hep-th;hep-th;hep-th
+Amitabha Lahiri,hep-th;gr-qc;hep-th;hep-th;hep-ph;hep-th;hep-th;hep-th;hep-th;hep-th
+E. Lopez Torres,cond-mat;physics;physics;hep-ex;math;hep-th;physics;math;math;physics
+S. Wang,astro-ph;math;hep-ph;hep-ph;hep-ph;hep-ph;cond-mat;math;math;quant-ph
+Ahmet E. Bulut,eess;eess;math;math;cond-mat;hep-ph;math;cs;hep-ph;math
+S. Grabowski,physics;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Tony E. Grift,stat;math;math;quant-ph;math;quant-ph;cond-mat;math;math;physics
+Yoav Shoham,cs;cs;cs;cs;cs;cs;cond-mat;cond-mat;cond-mat;gr-qc
+R. G. Arnold,cond-mat;physics;nucl-ex;nlin;math;cond-mat;cond-mat;nlin;astro-ph;nlin
+J. G. Alessi,astro-ph;physics;physics;astro-ph;astro-ph;physics;astro-ph;astro-ph;astro-ph;physics
+C. Zhang,astro-ph;cond-mat;gr-qc;astro-ph;cond-mat;cond-mat;gr-qc;gr-qc;astro-ph;hep-ph
+Jean-Pierre Hurni,hep-ph;physics;math-ph;math-ph;math-ph;math-ph;physics;quant-ph;cs;cond-mat
+Patrick Erik Bradley,math;math;math;math;math;math;stat;cs;math;cs
+Luchezar L. Avramov,math;math;math;math;math;math;math;math;math;math
+Thomas L. Griffiths,cs;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;math;cond-mat;cond-mat;cs
+Peter E. Latham,math;math;q-bio;math;q-bio;astro-ph;q-bio;q-bio;q-bio;q-bio
+D. Smith,cs;physics;math;cond-mat;cs;cs;physics;cs;cs;astro-ph
+R. M. Nieminen,physics;physics;physics;cond-mat;cond-mat;cond-mat;cond-mat;physics;physics;physics
+Alexander M. G. Cox,math;q-fin;math;q-fin;q-fin;math;q-fin;q-fin;q-fin;math
+Dritan Siliqi,q-bio;cs;cs
+Ajay Jasra,math;stat;stat;stat;stat;stat;stat;stat;stat;stat
 Paul Anderson,math;gr-qc;gr-qc;math;cs;gr-qc;cond-mat;gr-qc;gr-qc;gr-qc
-Liadan Ita O'Callaghan,cs;cs;hep-th;cs;cs;cs;cs;cs;cs;cs
-Marcus Rickert,cs;nlin;cond-mat;cond-mat;cond-mat;cs;cs;cs;cs;cs
-T. Hanawa,astro-ph;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;astro-ph;astro-ph
-Rayalla Ranganayakulu,cs
-Tomasz Ciszkowski,cs;cs;astro-ph;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
-B. Cranen,cs;cs;cs;cs;astro-ph;cond-mat;hep-ph;hep-th;hep-th;hep-th
-Andrew Beckwith,physics;cond-mat;q-bio;physics;physics;cond-mat;alg-geom;alg-geom;astro-ph;astro-ph
-A. Lauria,cond-mat;astro-ph;physics;physics;physics;physics;physics;astro-ph;astro-ph;physics
-D. Henderson,cond-mat;cond-mat;physics;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;physics;astro-ph
-Ken Kiyono,physics;chao-dyn;nlin;physics;chao-dyn;nlin;q-bio;chao-dyn;chao-dyn;chao-dyn
-Dahang Lin,nucl-th;physics;math;math;math;math;physics;physics;math;math
-L. Nicoletti,cond-mat;physics;cond-mat;cond-mat;cond-mat;cond-mat;hep-ex;hep-ex;cond-mat;nucl-ex
-Sudipta N. Sinha,math;nlin;cs;cs;cs;solv-int;solv-int;hep-th;nlin;hep-th
-Akihiko Yukie,math;math;math;math;math;math;math;math;math;math
-M. Huhtinen,physics;physics;physics;cond-mat;cond-mat;physics;cond-mat;physics;math;alg-geom
-Iliya V. Karlin,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;nlin;physics;cond-mat
-Vincenzo Fiorentini,cond-mat;mtrl-th;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
-C. J. Benesh,nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;astro-ph;nucl-th;hep-ph;nucl-th;nucl-th
-E. A. Henry,math;cond-mat;astro-ph;astro-ph;astro-ph;math;cond-mat;gr-qc;math;cs
-R. A. Gearhart,hep-ex;physics;physics;nucl-ex;nucl-ex;math;math;math;math;cs
-Eric Lewin Altschuler,physics;math;physics;gr-qc;physics;math;cond-mat;math;physics;cond-mat
-Edward Witten,hep-ph;hep-ph;hep-th;hep-th;hep-ph;hep-ph;hep-th;hep-th;hep-th;hep-th
-L. Alvado Carcel,cs;physics;physics;hep-ex;physics;physics;physics;physics;physics;physics
-Malak N. Makar,physics;hep-th;hep-th;q-bio;hep-th;cond-mat;cs;cs;cs;cs
-Xiaolu Wang,math;physics;cs;math;math;math;cs;cs;stat;math
-W. D. Deering,physics;math;nucl-th;hep-th;physics;hep-th;nucl-th;math;gr-qc;gr-qc
-K. Shibata,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;quant-ph;cond-mat;cond-mat;astro-ph
-W. Lorenzon,astro-ph;astro-ph;astro-ph;physics;physics;physics;physics;nucl-ex;physics;nucl-ex
-Francis X. Connolly,math;math;math;gr-qc;physics;math;math;math;cs;cs
-Friedrich Wagemann,math-ph;math;math-ph;math-ph;math-ph;math;math-ph;math;math;math
-Ruguang Zhou,nlin;nlin;nlin;solv-int;nlin;nlin;nlin;nlin;cond-mat;cond-mat
-L. M. Martiouchev,nlin;hep-ph;cond-mat;cond-mat;cond-mat;math;math;math;math;quant-ph
-H. S. Matis,nucl-ex;nucl-ex;physics;nucl-ex;nucl-ex;nucl-ex;nucl-ex;nucl-ex;nucl-ex;nucl-ex
-Lewis Y. Geer,math;q-bio;math;hep-lat;math;math;cond-mat;cs;math;astro-ph
-Jason W. Bates,physics;physics;gr-qc;math;math;math;math;math;gr-qc;astro-ph
-Hirosi Ooguri,hep-lat;hep-th;math;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th
-H. Stecher,cond-mat;physics;cond-mat;cond-mat;physics;cond-mat;physics;physics;physics;cond-mat
-V. A. Nechitailo,hep-th;hep-ph;hep-ex;nucl-th;nucl-th;hep-ph;hep-th;hep-ph;hep-ph;hep-ph
-Sylvain Marchand,cs;cond-mat;hep-th;hep-th;hep-th;math;math;math;math;math
-William Duke,math;alg-geom;math;math;math;math;math;math;alg-geom;math
-Mika Gustafsson,q-bio;physics;cond-mat;math;math;cs;math;hep-ex;hep-ex;cond-mat
-Christopher Haydock,physics;physics;physics;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;chao-dyn
-Lorrie Faith Cranor,cs;cs;cs;cs;cs;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph
-J. L. White,astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;cond-mat;astro-ph;astro-ph
-J. Timmer,nlin;chao-dyn;nlin;chao-dyn;comp-gas;chao-dyn;nlin;nlin;chao-dyn;chao-dyn
-J. L. Romero,quant-ph;gr-qc;quant-ph;quant-ph;quant-ph;physics;math-ph;quant-ph;quant-ph;gr-qc
-Marco Cuturi,cs;stat;stat;stat;stat;stat;q-bio;stat;cs;stat
-G. Laurent,math;math;math;math;math;math;math;hep-th;math;math
-Long Wang,math;math;math;math;math;math;math;math;math;math
-Michael Manthey,cs;cs;quant-ph;cs;cs;cs;cs;cs;cs;cs
-Barbara A. Cohen,math;math;cs;math;math;cond-mat;math;cond-mat;math;math
-Oleg Kiselyov,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
-V. Naidenko,cs;cs;cs;cs;physics;hep-ph;alg-geom;astro-ph;astro-ph;astro-ph
-Kazuyoshi Mori,math;math;math;math;dg-ga;hep-th;math;math;hep-th;hep-ex
-Claudia Queiruga,cs;astro-ph;hep-ex;hep-ex;math;math;math;math;math;math
-S. P. Gabuda,cond-mat;cond-mat;physics;q-bio;physics;math;math;math;cond-mat;math
-Shay Caspi,cond-mat;physics;physics;math;math;math;cs;cs;cs;cs
-Martin A. Guest,math;math;math;math;math;math;alg-geom;math;math-ph;math
-Samir Bhalla,cs;quant-ph;quant-ph;math;math;astro-ph;physics;physics;math;math
-David M. Mount,cs;astro-ph;physics;astro-ph;hep-ph;cs;astro-ph;math;physics;math
-G. Milcinski,cs;physics;physics;q-bio;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
-M. Enkelmann,physics;math;math;alg-geom;astro-ph;astro-ph;astro-ph;cond-mat;cond-mat;cs
-Raymond Y. Chiao,physics;physics;physics;quant-ph;gr-qc;quant-ph;gr-qc;gr-qc;gr-qc;gr-qc
-Bernd Kleinjohann,cs;alg-geom;alg-geom;alg-geom;astro-ph;cond-mat;cond-mat;cond-mat;dg-ga;gr-qc
-Nadia Creignou,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
-B. Kaushik,hep-ph;cs;hep-ph;astro-ph;physics;cs;hep-ph;hep-ph;quant-ph;cond-mat
-Giovanni Di Crescenzo,cs;cond-mat;cond-mat;cond-mat;hep-ph;cs;math;math-ph;hep-th;astro-ph
-Bart de Smit,math;math;math;math;math;math;math;math;math;math
-E. V. Correa Silva,cond-mat;cond-mat;gr-qc;gr-qc;cs;gr-qc;cond-mat;gr-qc;gr-qc;gr-qc
-M. D. Partlan,nucl-ex;nucl-ex;nucl-ex;nucl-th;hep-th;hep-ph;hep-ph;hep-ph;hep-ph;gr-qc
-Steven J. Benson,math;math;hep-ph;math;math;astro-ph;gr-qc;gr-qc;hep-lat;hep-lat
-S. A. Mondal,math;cs;math;math;cond-mat;cond-mat;cond-mat;math;math;math
-M. Abdelsalam Hassan,cs;astro-ph;astro-ph;nucl-th;cs;cond-mat;physics;physics;astro-ph;cond-mat
-T. Aso,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
-Steve Hitchcock,cs;cs;astro-ph;astro-ph;astro-ph;gr-qc;hep-ex;hep-ex;hep-ex;hep-ph
-R. Aguirre,nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;math-ph;nucl-th;nucl-th;nucl-th;nucl-th
-Heinrich Niemann,cs;cmp-lg;cmp-lg;astro-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph
-Jamshid Moori,math;math;math;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;math
-Soo-Jong Rey,math;astro-ph;gr-qc;math;math;hep-ex;hep-th;hep-th;hep-ex;math
-M. E. Gershenson,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
-Yiping Dou,stat;math;math;math;math;math;cs;stat;math;astro-ph
-Donu Arapura,math;math;math;math;math;math;math;math;math;math
-Ivana Drobnjak,q-bio;math;math;math;math;math;astro-ph;cs;cond-mat;cond-mat
-Dino Borri,cs;physics;math;cond-mat;math;math;physics;cs;cs;cs
-R. J. Haarsma,astro-ph;physics;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;physics;gr-qc
-Xi Yang,physics;physics;physics;physics;math;math;math;physics;physics;physics
-Alex Buchel,hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th
-Joseph D. Romano,gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc
-Housila P. Singh,stat;math;math;math;math;cs;math;cond-mat;hep-ex;physics
-Guenther Goerz,cmp-lg;cs;cs;cs;cmp-lg;cmp-lg;astro-ph;astro-ph;astro-ph;astro-ph
-C. Duyar,nucl-ex;math;math;math;astro-ph;astro-ph;gr-qc;gr-qc;gr-qc;gr-qc
-Mark A. Peterson,math;physics;cond-mat;physics;physics;cond-mat;math;astro-ph;cond-mat;math
-Ophir Flomenbom,physics;cond-mat;cond-mat;cond-mat;cond-mat;q-bio;q-bio;q-bio;cond-mat;q-bio
-Yu-Chu M. Li,astro-ph;astro-ph;astro-ph;physics;cond-mat;math;astro-ph;cond-mat;physics;astro-ph
-L. Andersson,dg-ga;dg-ga;astro-ph;dg-ga;quant-ph;gr-qc;astro-ph;astro-ph;physics;astro-ph
-E. L. Martin,nucl-th;math;math;physics;astro-ph;quant-ph;cond-mat;cond-mat;cond-mat;math
-Kevin F. Wong,math;math;math;math;math;math;math;math;math;math
-Alessandro D. Pesci,gr-qc;hep-th;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc
-Franc Jurkovic,cs;math;math;math;math;math;math;math;math;math
-C. Ordenovic,physics;physics;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph
-Bobby Vandalore,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
-Christopher K. Carter,cs;stat;stat;math;math;math;math;math;math;hep-ph
-Misuhiro Shishikura,math;math;math;math;math;math;math;math;math;math
-L. B. Ioffe,hep-ph;hep-ph;hep-ph;hep-ph;physics;cond-mat;cond-mat;cond-mat;hep-ph;hep-ph
+Sudhir Kumar Singh,quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;cs;cs;cond-mat
+John Hannah,math;astro-ph;astro-ph;astro-ph;astro-ph;cond-mat;physics;astro-ph;astro-ph;cond-mat
+J. Withey,cs;astro-ph;cs;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph
 Martin G. Burke,q-bio;math;math;math;math;math;math;math;math;math
-A. Pellinen-Wannberg,cond-mat;cond-mat;astro-ph;hep-ph;alg-geom;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph
-Xin Zhou,math;math;math;math;math;math;cond-mat;math;math;math
-Gabriel Istrate,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
-Tom Fawcett,cs;cs;alg-geom;astro-ph;astro-ph;astro-ph;astro-ph;cond-mat;cond-mat;cond-mat
-W. Woelfli,astro-ph;physics;physics;physics;physics;physics;physics;physics;physics;cs
-G Rowlands,cond-mat;physics;cond-mat;physics;q-bio;physics;cond-mat;physics;physics;physics
-Kin Y. Li,math;math;math;cs;cond-mat;math;cond-mat;cs;math;nlin
-Itai Benjamini,math;math;math;math;math;math;math;math;math;math
-Kazuyoshi MORI,math;math;math;math;dg-ga;hep-th;math;math;hep-th;hep-ex
-N. Giglioli,cs;astro-ph;astro-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph
-Noam Elkies,math;math;math;math;math;math;math;math;math;math
-J. Barrette,quant-ph;quant-ph;gr-qc;quant-ph;gr-qc;quant-ph;gr-qc;astro-ph;gr-qc;physics
-Herschel Rabitz,cond-mat;quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;math;quant-ph;physics;quant-ph
-T. F. Wang,cond-mat;quant-ph;math;quant-ph;cond-mat;quant-ph;cond-mat;cond-mat;cond-mat;cond-mat
+W. Younes,nucl-th;nucl-th;nucl-th;nucl-th;cond-mat;cond-mat;physics;nucl-ex;cond-mat;nucl-th
+N. Sabadini,math;math;math;math;math;cs;cs;cs;math;math
+Tadek Figiel,math;math;hep-ex;math;math;math;math;math;hep-ex;math
+Ryo Adachi,q-fin;math;math;math;math;math;math;math;math;math
+B. Enriquez,math;math;math;math;hep-th;math;math;math;math;math
+D. Dominici,hep-ph;hep-ph;hep-ph;hep-ph;cond-mat;hep-ph;hep-ph;physics;hep-ph;cond-mat
+Songrit Maneewongvatana,cs
+Khalil M. Bitar,hep-lat;hep-lat;hep-lat;hep-lat;hep-lat;hep-th;math;hep-lat;hep-lat;hep-lat
+Lawrence Camilletti,cs;math;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;hep-ex;hep-ex
+Kerwyn Casey Huang,physics;q-bio;q-bio;physics;astro-ph;astro-ph;math;astro-ph;quant-ph;cs
+R. G. Milner,nucl-ex;physics;physics;cond-mat;cond-mat;physics;physics;physics;nucl-ex;hep-ex
+Gilles Grimaud,cs;astro-ph;astro-ph;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+J-G. Caputo,math;math;math;math;math;math;math;math;math;math
+Alex Levine,cond-mat;math;cond-mat;cond-mat;cond-mat;cond-mat;hep-ph;cond-mat;cond-mat;cond-mat
+Wolfram Hardt,cs;nlin;nlin;cond-mat;cond-mat;cond-mat;cs;math;gr-qc;hep-lat
+Peter Veerman,math;math;math;q-fin;math;cond-mat;math;physics;math;math
+E. M. Drobyshevski,astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;q-bio;astro-ph;astro-ph;astro-ph;astro-ph
+Denis V. Popel,cs;cs;cs;cs;cs;cs;cs;cs;nlin;cs
+Herbert Stahl,math;math;math;math;math;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Paul Wiggins,physics;q-bio;q-bio;stat;cond-mat;cond-mat;stat;astro-ph;physics;math
+I-Ming Tang,math;math;math;math-ph;math;cond-mat;hep-th;hep-th;math;math
+M. Pieck,physics;cs;nlin;nlin;math;math;astro-ph;astro-ph;astro-ph;cond-mat
+Robin Koytcheff,math;math;math;math;math;math;math;math;math;cond-mat
+Davood Rafiei,cs;cs;cs;cs;cs;hep-th;hep-th;hep-th;hep-th;hep-th
+Keehang Kwon,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
+Giancarlo Crocetti,cs;cs;cs;cs;cs;cs;cs;cond-mat;cond-mat;cond-mat
+Y. Qiao,cond-mat;cond-mat;cond-mat;math;hep-ph;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat
+Yoram Vodovotz,q-bio;astro-ph;astro-ph;math;q-fin;cs;astro-ph;astro-ph;astro-ph;astro-ph
+V. D. Lipovskii,nlin;cond-mat;physics;math;hep-ph;math;math;math;physics;math
+V. P. Maslov,physics;cond-mat;cond-mat;math;physics;math-ph;q-fin;q-fin;physics;physics
+I. I. Ushakov,math;physics;physics;cond-mat;cond-mat;cond-mat;cond-mat;physics;physics;hep-ph
+A. M. Rudin,math;cond-mat;cs;cond-mat;cond-mat;math;cs;math;cond-mat;math
+A. Dalgarno,math-ph;physics;physics;math-ph;physics;physics;astro-ph;physics;astro-ph;hep-th
+Wannapong Triampo,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;physics;q-bio;physics;q-bio;cond-mat
+C. W. J. Beenakker,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;physics;cond-mat
+Sandor Mandusitz,cs;astro-ph;cs;physics;physics;physics;quant-ph;quant-ph;quant-ph;quant-ph
+Brian Herman,q-bio;math;astro-ph;cs;math;math;math;math;astro-ph;astro-ph
+Reka Albert,q-bio;q-bio;q-bio;cond-mat;cond-mat;physics;cond-mat;cond-mat;cond-mat;q-bio
+Siye Wu,hep-th;hep-th;hep-th;math;hep-th;math;math;math;math;math
+Anders Pettersson,cs;physics;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;hep-ph;hep-ph;hep-th
+Robert L. Jerrard,math;math-ph;math;math-ph;math;math;math;math;math;math
+Yeong-Lieh Lin,physics;math;math;math;math;physics;physics;math;math;math
+Brenda Smith,math;hep-th;cs;astro-ph;astro-ph;astro-ph;astro-ph;cs;stat;nlin
+Oded Goldreich,cs;cs;cond-mat;cond-mat;cond-mat;cs;cs;cs;cs;math
+N. Toge,physics;physics;hep-ex;hep-ex;cs;physics;physics;physics;astro-ph;astro-ph
+T. Neuhaus,hep-lat;hep-lat;hep-lat;hep-lat;hep-lat;cond-mat;cond-mat;hep-lat;hep-lat;hep-lat
+D. Vollhardt,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Saharon Shelah,math;math;math;math;math;math;math;math;math;math
+Martina Goy,q-fin;hep-ph;hep-ph;hep-ph;math;physics;astro-ph;quant-ph;math;math
+Malak N. Makar,physics;hep-th;hep-th;q-bio;hep-th;cond-mat;cs;cs;cs;cs
+Oded Schramm,math;math;math;math;math;math;math;math;math;math
+J. Kintner,astro-ph;nucl-ex;nucl-ex;nucl-ex;nucl-ex;nucl-ex;nucl-ex;nucl-ex;nucl-ex;nucl-ex
+Kathleen Crumpton,cs;math;math;hep-ex;math-ph;math-ph;math;math;math;math
+Gilles Montambaux,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Judith L. Klavans,cs;cs;astro-ph;cs;cs;cs;math;astro-ph;math;hep-ph
+John T. Baldwin,math;math;math;math;math;math;math;math;math;math
+M. P. Carpenter,astro-ph;hep-ph;cs;nucl-ex;nucl-ex;astro-ph;hep-ph;hep-ph;hep-th;hep-ph
+Valerio Faraoni,gr-qc;gr-qc;physics;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;gr-qc;physics
+Tsvi Piran,astro-ph;astro-ph;astro-ph;astro-ph;gr-qc;gr-qc;astro-ph;astro-ph;astro-ph;astro-ph
+Jean-Philippe Vert,math;math;nucl-th;cs;math;physics;math;hep-ph;math;math
+P. Anthony,cond-mat;math;cond-mat;cond-mat;astro-ph;cs;cond-mat;cond-mat;math;cs
+Philip E. Gill,math;math;cond-mat;cond-mat;math;math;astro-ph;math;math;math
+Marten Wegkamp,stat;math;math;math;stat;stat;math;math;math;math
+Foster Provost,cs;cs;stat;math;stat;cs;gr-qc;gr-qc;hep-ex;hep-ex
+M. J. Brinkman,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;math;cond-mat
+A. S. R. Murty et. al,physics;astro-ph;math;math;astro-ph;nucl-ex;astro-ph;astro-ph;astro-ph;nlin
+J. Sonnenschein,hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th;hep-th
+Xun Yu Zhou,math;math;math;math;math;math;math;q-fin;math;q-fin
+Sigrid Bernstorff,cond-mat;physics;q-fin;math;physics;physics;math;math;math;math
+Sandra Savaglio,astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;nlin
+Luis Diambra,nlin;q-bio;cond-mat;astro-ph;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+P. D. T. A. Elliott,math;math;math;math;math;math;math;math;astro-ph;physics
+Shoujirou Mizutori,nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;nucl-th
+Tomasz Ciszkowski,cs;cs;astro-ph;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Rob F. Van der Wijngaart,cs;cs;astro-ph;astro-ph;cs;astro-ph;math;math;math;cs
+Joachim Weber,math;cs;nlin;nlin;math;nlin;nlin;physics;nlin;astro-ph
+Anton Stiglic,cs;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;math;math;math;math
+Cristina Blancafort,math;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph;hep-ph
+Pierre-Louis Lions,math;math;math;cond-mat;cond-mat;math;math;math;math;math
+Bharat Jayaraman,cs;cs;nucl-th;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph
+Xin Dong,nucl-ex;nucl-ex;nucl-ex;nucl-ex;math;math;math;cond-mat;q-fin;math
+Paulette Saab,math;math;math;math;q-fin;cond-mat;cond-mat;physics;physics;math
+Jan Willemson,cs;math;math;math;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Dolan Chapa Sen,math-ph;hep-th;hep-th;hep-th;hep-th;cond-mat;hep-th;hep-th;hep-th;physics
+N. Nilsson,cs;physics;cond-mat;cs;quant-ph;quant-ph;astro-ph;cond-mat;cond-mat;nucl-th
+Seth Lloyd,quant-ph;quant-ph;quant-ph;quant-ph;quant-ph;physics;quant-ph;quant-ph;quant-ph;quant-ph
+D. A. Hamburger,astro-ph;astro-ph;physics;astro-ph;hep-ph;astro-ph;astro-ph;astro-ph;astro-ph;physics
+S. J. Childs,physics;physics;cond-mat;physics;physics;q-bio;q-bio;q-bio;q-bio;physics
+Stamatis Kolios,math;hep-ph;hep-ph;hep-th;math;math;math;math;math;math-ph
+J. E. Gallegos,hep-th;astro-ph;cond-mat;astro-ph;hep-th;hep-th;math;math;astro-ph;hep-th
+S. Morgan,cond-mat;cond-mat;physics;cond-mat;cond-mat;astro-ph;quant-ph;cond-mat;quant-ph;cond-mat
+Adrian VanDeemen,nlin;cond-mat;cond-mat;cond-mat;cs;cs;cs;cs;cs;cs
+Longhai Li,stat;stat;stat;stat;stat;stat;math;stat;stat;physics
+Sylvie Boldo,cs;cs;cs;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;hep-ex
+Tshilidzi Marwala,q-fin;cs;cs;cs;cs;cs;cs;cs;cs;cs
+Eunsook Hwang,physics;cond-mat;cond-mat;cs;cs;cond-mat;cond-mat;math;math;quant-ph
+Barry Simon,math;math;math;math;math;math;math;math;math;math
+Yu. Shibata,physics;cond-mat;cond-mat;cond-mat;astro-ph;nlin;astro-ph;astro-ph;astro-ph;astro-ph
+Jason Ritt,q-bio;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;hep-ph;hep-th;hep-th
+Normand Mousseau,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Kyong Hwan Jin,cs;eess;cs;cs;cs;cs;cs;cs;physics;astro-ph
+Joel Smoller,gr-qc;math-ph;math-ph;gr-qc;gr-qc;math-ph;gr-qc;math;math;gr-qc
+L. Casano,physics;nucl-ex;nucl-ex;nucl-ex;nucl-ex;hep-ex;nucl-ex;astro-ph;cond-mat;cond-mat
+H. Imai,quant-ph;cond-mat;cond-mat;cs;cond-mat;cond-mat;quant-ph;cond-mat;cond-mat;cond-mat
+Edith Hemaspaandra,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
+Anastasia Papavasiliou,stat;math;math;math;math;math;hep-th;hep-th;hep-th;hep-th
+A. J. van Es,nlin;math;math;math;astro-ph;cond-mat;math;hep-th;math;astro-ph
+Alberto Mendelzon,cs;cs;nlin;astro-ph;astro-ph;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat
+Daisuke Takahashi,cond-mat;hep-th;hep-ph;cond-mat;cond-mat;cond-mat;cond-mat;math-ph;cond-mat;nlin
+Robin Kaiser,physics;physics;physics;physics;physics;physics;physics;physics;physics;physics
+Ioana A. Cosma,stat;stat;stat;math;math-ph;math;math;math;math;math
+B. Pesaran,q-bio;q-bio;q-bio;econ;q-bio;stat;stat;astro-ph;cond-mat;hep-ph
+L. A. V. de Carvalho,gr-qc;q-bio;astro-ph;astro-ph;math-ph;quant-ph;astro-ph;math-ph;astro-ph;quant-ph
+Ramesh Narayan,astro-ph;astro-ph;astro-ph;gr-qc;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph
+Sergei V. Ivanov,math;math;math;math;math;math;math;math;math;math
+C. Tannous,physics;physics;physics;quant-ph;cond-mat;physics;physics;quant-ph;physics;physics
+Sailing He,physics;physics;physics;physics;physics;physics;physics;physics;physics;cond-mat
+Shrikant Venkataramani,cs;cs;cs;gr-qc;cond-mat;cs;cs;cs;cs;cond-mat
+C. Kohl,physics;cond-mat;quant-ph;cond-mat;cond-mat;physics;astro-ph;nucl-ex;cond-mat;cond-mat
+Mikael Hedin,physics;astro-ph;astro-ph;cond-mat;gr-qc;gr-qc;hep-ph;hep-ph;math;math
+G. N. C. Kirby,cs;astro-ph;cond-mat;math;physics;astro-ph;astro-ph;astro-ph;hep-ph;astro-ph
+Basel Salahieh,eess;math;math;math;math;math;math;math;math;math
+Zhenghan Wang,cond-mat;math;quant-ph;math-ph;math;cond-mat;math;quant-ph;math;math
+David Kazhdan,math;math;math;math;math;math;math;math;math;math
+M. N. Quevedo,q-fin;gr-qc;gr-qc;hep-th;cond-mat;hep-th;hep-th;gr-qc;physics;hep-ph
+Lorenzo Silengo,q-bio;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;math;gr-qc
+Veronique Gayrard,math;math;math;math;math;math;math;math;cond-mat;math
+V. Kurasov,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;physics;physics;cond-mat;cond-mat
+Gordan Savin,math;math;math;math;math;math;math;math;math;math
+Benjamin Coleman,hep-th;hep-th;hep-ph;hep-th;hep-th;hep-th;eess;astro-ph;astro-ph;cond-mat
+E. Rubel,cond-mat;math;astro-ph;astro-ph;nucl-ex;astro-ph;cond-mat;physics;math;math
+Shing-Tung Yau,math;math;math;math;math;math;math;hep-th;math;math
+John W. Milnor,math;math;math;math;math;math;math;math;math;math
+V. J. S. Bejar,astro-ph;astro-ph;astro-ph;physics;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph
+Z. Ya Turakulov,physics;gr-qc;gr-qc;gr-qc;math;math;gr-qc;gr-qc;math;gr-qc
+K. Wolf,math;astro-ph;quant-ph;astro-ph;hep-ph;math-ph;astro-ph;cond-mat;quant-ph;astro-ph
+Nadim Naffah,math;math;math;math;math;cs;stat;physics;cs;math
+M. C. Ogilvie,physics;nucl-ex;hep-lat;nucl-ex;hep-lat;hep-lat;hep-lat;astro-ph;nucl-ex;nucl-ex
+Marko Tadic,math;math;math;math;math;math;math;math;math;math
+D. J. Johnson,hep-ph;math;nucl-th;nucl-th;hep-th;math;cond-mat;cond-mat;astro-ph;quant-ph
+R. L. Bates,math;cond-mat;astro-ph;gr-qc;cond-mat;astro-ph;physics;physics;astro-ph;astro-ph
+Noga Alon,math;math;math;math;math;math;math;math;math;cs
+Michael T. McCann,eess;math;cs;cs;cs;math;math;cond-mat;math;math
+Ivan Png,cs;nlin;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;gr-qc;hep-lat
+R. Monasson,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+W. Chen,math;math;math-ph;cs;cs;cs;math;cond-mat;cs;cs
+M. Nieto-Vesperinas,physics;physics;physics;cond-mat;physics;physics;physics;physics;physics;physics
+S. Bumble,q-bio;cond-mat;physics;cond-mat;physics;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat
+M. Lindroos,astro-ph;physics;hep-ph;cond-mat;physics;physics;hep-ph;cond-mat;hep-ph;astro-ph
+Zizhuo Wang,math;math;cs;math;cs;cs;math;math;cs;math
+Lincoln Chayes,cond-mat;math;math;math-ph;cond-mat;math;math;cond-mat;math;cond-mat
+V. Levinski,physics;physics;math;physics;hep-ph;math;astro-ph;astro-ph;astro-ph;astro-ph
+Esther M. Arkin,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
+T. Vojta,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Narcisse Randrianantoanina,math;math;math;math;math;math;math;math;math;math
+B. Zeidman,nucl-ex;nucl-ex;nucl-ex;nucl-ex;q-bio;astro-ph;cond-mat;hep-ph;hep-th;hep-th
+Ll. Serra,cond-mat;cond-mat;cond-mat;physics;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+J. P. Carbotte,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Joaquim A. Dente,hep-ph;math;math;math;math;math;math;math;math;math
+Zhimin Jiang,nlin;cs;math;math;cs;cs;cs;math;cond-mat;math
+I. Ganne,nlin;nlin;cond-mat;cond-mat;physics;nucl-ex;astro-ph;physics;physics;physics
+D. Klumpar,physics;astro-ph;astro-ph;math;math;math;math;math;physics;hep-th
+V. E. Centonze,q-bio;physics;cond-mat;math;astro-ph;math;cond-mat;hep-ph;physics;astro-ph
+Soumyadeep Paul,cs;cond-mat;cond-mat;cond-mat;stat;cs;hep-th;cs;cs;math
+Ramarathnam Venkatesan,math;math;cs;math;math;math;cs;math;cs;cs
+P. Fallon,nucl-th;nucl-th;nucl-ex;nucl-ex;nucl-ex;nucl-th;nucl-th;cond-mat;astro-ph;nucl-ex
+Mohamed El Hedi Arouri,q-fin;q-fin;q-fin;q-fin;q-fin;q-fin;physics;physics;cs;math
+James Propp,math;math;math;math;math;math;math;math;nlin;math
+Michael J. O'Donnell,cs;cs;cs;cs;physics;math;math;hep-ph;hep-ph;hep-ph
+L. Prasad,cs;cs;cs;hep-th;gr-qc;cs;cs;cs;cs;cs
+R. Aguirre,nucl-th;nucl-th;nucl-th;nucl-th;nucl-th;math-ph;nucl-th;nucl-th;nucl-th;nucl-th
+Rodrick Wallace,q-bio;q-bio;q-bio;q-bio;q-bio;q-bio;q-bio;q-bio;q-bio;q-bio
+Jean-Claude Hausmann,math;math;math;math;math;cs;math;math;math;math
+Laurent Sanchez-Palencia,cond-mat;cond-mat;quant-ph;cond-mat;cond-mat;cond-mat;quant-ph;quant-ph;physics;quant-ph
+Alessandra Frabetti,math;math-ph;math;math;math;hep-th;math;hep-th;math;math
+A. S. Yelkhovsky,hep-th;physics;hep-ph;hep-ph;hep-ph;physics;hep-ph;hep-ph;hep-ph;hep-ph
+Emil Saucan,math;math;math;math;math;cs;math;cs;math;math
+Denis Blackmore,math;math;math;math;nlin;nlin;math;math-ph;nlin;math
+T. A. DeGrand,hep-lat;hep-lat;hep-lat;hep-lat;hep-lat;hep-th;hep-ph;hep-lat;hep-lat;hep-lat
+Udo Seifert,cond-mat;cond-mat;cond-mat;cond-mat;physics;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Joel Predd,cs;stat;cs;cs;cs;cs;cs;cs;cs;gr-qc
+Karhan Akcoglu,cs;cs;cs;physics;math;physics;math;math;math;math
+R. Laforest,quant-ph;quant-ph;quant-ph;nucl-ex;quant-ph;nucl-ex;quant-ph;quant-ph;nucl-ex;nucl-ex
+E. A. Kosogorov,physics;physics;physics;physics;physics;cond-mat;math;cond-mat;math;cond-mat
+Knut Jorgen Maloy,physics;cond-mat;physics;physics;physics;physics;cond-mat;cond-mat;cond-mat;physics
+Richard J. Gardner,math;math;math;math;math;math;math;math;math;math
+Rahul V. Kulkarni,q-bio;q-bio;q-bio;physics;physics;q-bio;q-bio;q-bio;physics;cond-mat
+Ethan D. Gershon,math;math;math;cond-mat;math;math;math;q-bio;math;math
+Miquel Montero,cond-mat;q-fin;quant-ph;math-ph;physics;q-fin;q-fin;quant-ph;quant-ph;quant-ph
+Gregor Tanner,quant-ph;nlin;nlin;nlin;nlin;nlin;nlin;nlin;quant-ph;nlin
+N. C. R. Makins,hep-ex;hep-ex;nucl-ex;hep-ex;hep-ph;hep-ex;physics;hep-ex;hep-ex;hep-ex
+M. Boiti,nlin;nlin;nlin;nlin;nlin;nlin;nlin;nlin;nlin;nlin
+T. Allison,cs;hep-lat;physics;physics;hep-ph;math;hep-lat;hep-ph;math;cs
+M. Casalegno,physics;astro-ph;astro-ph;astro-ph;astro-ph;cond-mat;math;math;astro-ph;astro-ph
+B. Kaushik,hep-ph;cs;hep-ph;astro-ph;physics;cs;hep-ph;hep-ph;quant-ph;cond-mat
+Yunbo Zeng,nlin;nlin;nlin;nlin;nlin;nlin;nlin;nlin;nlin;nlin
+G. Milcinski,cs;physics;physics;q-bio;astro-ph;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+M. Klomfass,hep-lat;hep-lat;hep-ph;hep-lat;hep-lat;hep-ph;hep-lat;hep-lat;hep-lat;hep-lat
+Alexander Barg,cs;quant-ph;cs;cs;cs;cs;cs;cs;cs;cs
+Ivan Tsyfra,math;math;math-ph;math-ph;math-ph;math-ph;nlin;cond-mat;cond-mat;cond-mat
+U. Trinchero,cs;math-ph;cond-mat;cond-mat;hep-ph;nucl-ex;hep-th;hep-th;hep-ph;astro-ph
+Lorrie Faith Cranor,cs;cs;cs;cs;cs;astro-ph;astro-ph;astro-ph;astro-ph;astro-ph
+K. Yonemitsu,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Dean Karlen,physics;hep-ph;hep-th;hep-th;math;math;math;math;nucl-th;nucl-th
+Nikolai Dokuchaev,math;math;math;math;math;math;math;math;math;math
+Villar Claudia,cs;quant-ph;quant-ph;quant-ph;stat;hep-ph;quant-ph;quant-ph;quant-ph;quant-ph
+Yongsheng Ou,cs;physics;hep-ex;physics;math;math;math;math;math;math
+Ke Yu,hep-th;cs;cs;math-ph;cond-mat;cs;cs;q-fin;cs;math
+V. Papavassiliou,hep-ph;hep-ph;cond-mat;hep-ph;hep-ph;hep-ph;cond-mat;hep-ph;hep-ph;cond-mat
+Maurice HT Ling,cs;cs;cs;cs;cs;cs;cs;cs;cond-mat;cs
+Chengyan Liu,math;math;math;physics;math;cs;math;math;math;math
+Hubert Schicketanz,math;math;hep-th;hep-th;math;cs;math;math-ph;math;math
+Costas Efthimiou,math-ph;hep-th;physics;math;math;math;hep-th;q-fin;quant-ph;hep-th
+Luca Sanguinetti,cs;cs;cs;cs;cs;cs;cs;cs;cs;cs
+Jan Kallsen,q-fin;q-fin;q-fin;q-fin;q-fin;q-fin;q-fin;q-fin;math;q-fin
+M. V. Feigelman,cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat;cond-mat
+Ronald F. Boisvert,cs;cs;stat;astro-ph;astro-ph;q-bio;cond-mat;q-bio;quant-ph;math
+A. A. Balinsky,hep-th;hep-th;hep-th;hep-th;math-ph;math;math;hep-th;math;math-ph
+Svante Janson,math;math;math;math;math;math;math;math;math;cs
+Joseph Rynkiewicz,math;stat;math;math;math;stat;math;math;math;math
+Jonathan S. Yedidia,cs;cs;cs;cs;cs;cs;cs;cond-mat;cs;math
+S. C. Chapman,physics;physics;astro-ph;physics;cond-mat;astro-ph;physics;astro-ph;astro-ph;physics
+Markus Brede,nlin;nlin;nlin;cond-mat;cond-mat;nlin;cond-mat;cond-mat;cond-mat;cond-mat
+K. Rajaratnam,q-fin;math;math;math;stat;math;math-ph;math-ph;math-ph;math-ph
+Peter Laggner,physics;physics;cond-mat;math;math;math;astro-ph;astro-ph;astro-ph;astro-ph
+P. Etchegoin,q-bio;quant-ph;physics;physics;physics;physics;cond-mat;cond-mat;physics;physics
+U. Bottigli,physics;physics;physics;physics;physics;physics;physics;hep-ex;hep-ex;physics

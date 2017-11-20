@@ -1,0 +1,178 @@
+,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0
+0,"Dynamical Equilibrium, trajectories study in an economical system. The
+  case of the labor market",Patrick Letrémy,Marie Cottrell,Patrice Gaubert,Joseph Rynkiewicz,,,,,,,,,,,,,,,,,,,,,,stat.AP
+1,"Construction of Bayesian Deformable Models via Stochastic Approximation
+  Algorithm: A Convergence Study",Stéphanie Allassonnière,Estelle Kuhn,Alain Trouvé,,,,,,,,,,,,,,,,,,,,,,,stat.CO
+2,Lasso type classifiers with a reject option,Marten Wegkamp,,,,,,,,,,,,,,,,,,,,,,,,,stat.ML
+3,Inflated Beta Distributions,Raydonal Ospina,Silvia L. P. Ferrari,,,,,,,,,,,,,,,,,,,,,,,,stat.ME
+4,Nonparametric Volatility Density Estimation,Bert van Es,Peter Spreij,Harry van Zanten,,,,,,,,,,,,,,,,,,,,,,,math.ST
+5,The Inter-Strand Modes of the DNA as a Probe into MW-Radiation,Voislav Golo,,,,,,,,,,,,,,,,,,,,,,,,,q-bio.BM
+6,"Probing subtle fluorescence dynamics in cellular proteins by streak
+  camera based Fluorescence Lifetime Imaging Microscopy",R. V. Krishnan,Eva Biener,Jian-Hua Zhang,Robert Heckel,Brian Herman,,,,,,,,,,,,,,,,,,,,,q-bio.CB
+7,Human housekeeping genes are compact,Eli Eisenberg,Erez Y. Levanon,,,,,,,,,,,,,,,,,,,,,,,,q-bio.GN
+8,Fold-Hopf Bursting in a Model for Calcium Signal Transduction,Lutz Brusch,Wolfram Lorenz,Michal Or-Guil,Markus Bär,Ursula Kummer,,,,,,,,,,,,,,,,,,,,,q-bio.MN
+9,"Synchronization and oscillatory dynamics in heterogeneous mutually
+  inhibited neurons",J. A. White,C. C. Chow,J. Ritt,C. Soto-Trevino,N. Kopell,,,,,,,,,,,,,,,,,,,,,q-bio.NC
+10,Results and Limitations of the Soliton Theory of DNA Transcription,G. Gaeta,,,,,,,,,,,,,,,,,,,,,,,,,q-bio.OT
+11,"Plant defense multigene families: I. Divergence of Fusarium
+  solani-induced expression in Pisum and Lathyrus",Sandhya Tewari,Stuart M. Brown,Brian Fristensky,,,,,,,,,,,,,,,,,,,,,,,q-bio.PE
+12,"Probabilistic estimation of microarray data reliability and underlying
+  gene expression",S. Bilke,T. Breslin,M. Sigvardsson,,,,,,,,,,,,,,,,,,,,,,,q-bio.QM
+13,Bi-Phasic Vesicles: instability induced by adsorption of proteins,Jean-Marc Allain,Martine Ben Amar,,,,,,,,,,,,,,,,,,,,,,,,q-bio.SC
+14,"Control of spiral waves and turbulent states in a cardiac model by
+  travelling-wave perturbations",Peng-Ye Wang,Ping Xie,Hua-Wei Yin,,,,,,,,,,,,,,,,,,,,,,,q-bio.TO
+15,"Flysig: Dataflow Oriented Delay-Insensitive Processor for Rapid
+  Prototyping of Signal Processing",Wolfram Hardt,Bernd Kleinjohann,,,,,,,,,,,,,,,,,,,,,,,,cs.AR
+16,Dynamic Backtracking,M. L. Ginsberg,,,,,,,,,,,,,,,,,,,,,,,,,cs.AI
+17,Linear Segmentation and Segment Significance,Min-Yen Kan,Judith L. Klavans,Kathleen R. McKeown,,,,,,,,,,,,,,,,,,,,,,,cs.CL
+18,Nested satisfiability,Donald E. Knuth,,,,,,,,,,,,,,,,,,,,,,,,,cs.CC
+19,Chip-level CMP Modeling and Smart Dummy for HDP and Conformal CVD Films,George Yong Liu,Ray F. Zhang,Kelvin Hsu,Lawrence Camilletti,,,,,,,,,,,,,,,,,,,,,,cs.CE
+20,Computational Geometry Column 34,Pankaj K. Agarwal,Joseph O'Rourke,,,,,,,,,,,,,,,,,,,,,,,,cs.CG
+21,Bundling Equilibrium in Combinatorial auctions,Ron Holzman,Noa Kfir-Dahav,Dov Monderer,Moshe Tennenholtz,,,,,,,,,,,,,,,,,,,,,,cs.GT
+22,A Linear Shift Invariant Multiscale Transform,Andreas Siebert,,,,,,,,,,,,,,,,,,,,,,,,,cs.CV
+23,Influencing Software Usage,Lorrie Faith Cranor,Rebecca N. Wright,,,,,,,,,,,,,,,,,,,,,,,,cs.CY
+24,"Security amplification by composition: The case of doubly-iterated,
+  ideal ciphers",William Aiello,Mihir Bellare,Giovanni Di Crescenzo,Ramarathnam Venkatesan,,,,,,,,,,,,,,,,,,,,,,cs.CR
+25,Context-free multilanguages,Donald E. Knuth,,,,,,,,,,,,,,,,,,,,,,,,,cs.DS
+26,"The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules
+  of Thumb",Jim Gray,Goetz Graefe,,,,,,,,,,,,,,,,,,,,,,,,cs.DB
+27,Digitizing Legacy Documents: A Knowledge-Base Preservation Project,Elizabeth Anderson,Robert Atkinson,Cynthia Crego,Jean Slisz,Sara Tompson,,,,,,,,,,,,,,,,,,,,,cs.DL
+28,"The Distribution of Cycle Lengths in Graphical Models for Iterative
+  Decoding",Xian-ping Ge,David Eppstein,Padhraic Smyth,,,,,,,,,,,,,,,,,,,,,,,cs.DM
+29,"Distributed Computation, the Twisted Isomorphism, and Auto-Poiesis",Michael Manthey,,,,,,,,,,,,,,,,,,,,,,,,,cs.DC
+30,Theory and practice,Donald E. Knuth,,,,,,,,,,,,,,,,,,,,,,,,,cs.GL
+31,A note on digitized angles,Donald E. Knuth,,,,,,,,,,,,,,,,,,,,,,,,,cs.GR
+32,Designing an interface to optimize reading with small display windows,Tarjin Rahman,Paul Muter,,,,,,,,,,,,,,,,,,,,,,,,cs.HC
+33,"Biologically Motivated Distributed Designs for Adaptive Knowledge
+  Management",Luis M. Rocha,Johan Bollen,,,,,,,,,,,,,,,,,,,,,,,,cs.IR
+34,On Bounded-Weight Error-Correcting Codes,Russell Bent,Michael Schear,Lane A. Hemaspaandra,Gabriel Istrate,,,,,,,,,,,,,,,,,,,,,,cs.IT
+35,"Hierarchical Reinforcement Learning with the MAXQ Value Function
+  Decomposition",Thomas G. Dietterich,,,,,,,,,,,,,,,,,,,,,,,,,cs.LG
+36,Verifying the Unification Algorithm in LCF,Lawrence C. Paulson,,,,,,,,,,,,,,,,,,,,,,,,,cs.LO
+37,Developing numerical libraries in Java,Ronald F. Boisvert,Jack J. Dongarra,Roldan Pozo,Karin Remington,G. W. Stewart,,,,,,,,,,,,,,,,,,,,,cs.MS
+38,A Method for Solving Distributed Service Allocation Problems,Jose M Vidal,,,,,,,,,,,,,,,,,,,,,,,,,cs.MA
+39,Open Access beyond cable: The case of Interactive TV,Hernan Galperin,Francois Bar,,,,,,,,,,,,,,,,,,,,,,,,cs.MM
+40,"Fast, Approximate Synthesis of Fractional Gaussian Noise for Generating
+  Self-Similar Network Traffic",Vern Paxson,,,,,,,,,,,,,,,,,,,,,,,,,cs.NI
+41,Aspects of Evolutionary Design by Computers,Peter J Bentley,,,,,,,,,,,,,,,,,,,,,,,,,cs.NE
+42,"Alternative Local Discriminant Bases Using Empirical Expectation and
+  Variance Estimation",Eirik Fossgaard,,,,,,,,,,,,,,,,,,,,,,,,,cs.NA
+43,Open Source Real Time Operating Systems Overview,Till Straumann,,,,,,,,,,,,,,,,,,,,,,,,,cs.OS
+44,Numeration systems on a regular language,Pierre B. A. Lecomte,Michel Rigo,,,,,,,,,,,,,,,,,,,,,,,,cs.OH
+45,"Faster-than-light effects and negative group delays in optics and
+  electronics, and their applications",Raymond Y. Chiao,Jandir M. Hickmann,Daniel Solli,,,,,,,,,,,,,,,,,,,,,,,cs.PF
+46,Mini-indexes for literate programs,Donald E. Knuth,,,,,,,,,,,,,,,,,,,,,,,,,cs.PL
+47,Algorithms for Rapidly Dispersing Robot Swarms in Unknown Environments,Tien-Ruey Hsiang,Esther M. Arkin,Michael Bender,Sandor P. Fekete,Joseph S. B. Mitchell,,,,,,,,,,,,,,,,,,,,,cs.RO
+48,"Broy-Lamport Specification Problem: A Gurevich Abstract State Machine
+  Solution",James K. Huggins,,,,,,,,,,,,,,,,,,,,,,,,,cs.SE
+49,Fractionally-addressed delay lines,Davide Rocchesso,,,,,,,,,,,,,,,,,,,,,,,,,cs.SD
+50,A correct proof of the heuristic GCD algorithm,Bernard Parisse,,,,,,,,,,,,,,,,,,,,,,,,,cs.SC
+51,Parameter estimation in nonlinear stochastic differential equations,J. Timmer,,,,,,,,,,,,,,,,,,,,,,,,,nlin.AO
+52,"Convergence to equilibrium in a class of interacting particle systems
+  evolving in discrete time",Henryk Fuks,Nino Boccara,,,,,,,,,,,,,,,,,,,,,,,,nlin.CG
+53,New mathematical models for particle flow dynamics,Denis Blackmore,Roman Samulyak,Anthony Rosato,,,,,,,,,,,,,,,,,,,,,,,nlin.CD
+54,r-Matrix for the restricted KdV Flows with the Neumann constraints,Ruguang Zhou,,,,,,,,,,,,,,,,,,,,,,,,,nlin.SI
+55,Asymmetric Squares as Standing Waves in Rayleigh-Benard Convection,Alaka Das,Ujjal Ghosal,Krishna Kumar,,,,,,,,,,,,,,,,,,,,,,,nlin.PS
+56,"Higgs line bundles, Green-Lazarsfeld sets,and maps of Kähler manifolds
+  to curves",Donu Arapura,,,,,,,,,,,,,,,,,,,,,,,,,math.AG
+57,"On the cohomology of SL(2,Z[1/p])",Alejandro Adem,Nadim Naffah,,,,,,,,,,,,,,,,,,,,,,,,math.AT
+58,Some non-analytic-hypoelliptic sums of squares of vector fields,Michael Christ,,,,,,,,,,,,,,,,,,,,,,,,,math.AP
+59,Nuclear and Trace Ideals in Tensored *-Categories,S. Abramsky,R. Blute,P. Panangaden,,,,,,,,,,,,,,,,,,,,,,,math.CT
+60,The $\bal$\ and $\bcl$\ Bailey Transform and Lemma,Stephen C. Milne,Glenn M. Lilly,,,,,,,,,,,,,,,,,,,,,,,,math.CA
+61,Alternating sign matrices and domino tilings,Noam Elkies,Greg Kuperberg,Michael Larsen,James Propp,,,,,,,,,,,,,,,,,,,,,,math.CO
+62,A counterexample to the rigidity conjecture for rings,Raymond C. Heitmann,,,,,,,,,,,,,,,,,,,,,,,,,math.AC
+63,On the Removable Singularities for Meromorphic Mappings,E. M. Chirka,,,,,,,,,,,,,,,,,,,,,,,,,math.CV
+64,A cohomology for vector valued differential forms,Peter W. Michor,Hubert Schicketanz,,,,,,,,,,,,,,,,,,,,,,,,math.DG
+65,Conformal dynamics problem list,Ben Bielefeld,Adrien Douady,Curt McMullen,Jack Milnor,Misuhiro Shishikura,Folkert Tangerman,Peter Veerman,,,,,,,,,,,,,,,,,,,math.DS
+66,Factorizations of natural embeddings of l_p^n int L_r,Tadek Figiel,William B. Johnson,Gideon Schechtman,,,,,,,,,,,,,,,,,,,,,,,math.FA
+67,Simple proofing of Jordan's theorem,Oleg V. Goodyckov,,,,,,,,,,,,,,,,,,,,,,,,,math.GM
+68,"Another homogeneous, non-bihomogeneous Peano continuum",Greg Kuperberg,,,,,,,,,,,,,,,,,,,,,,,,,math.GN
+69,Möbius invariance of knot energy,Steve Bryson,Michael H. Freedman,Zheng-Xu He,Zhenghan Wang,,,,,,,,,,,,,,,,,,,,,,math.GT
+70,Efficient representation of perm groups,Donald E. Knuth,,,,,,,,,,,,,,,,,,,,,,,,,math.GR
+71,Editors' remarks (on two complexity theory surveys in the Bulletin),Morris W. Hirsch,Richard S. Palais,,,,,,,,,,,,,,,,,,,,,,,,math.HO
+72,On Bounded-Weight Error-Correcting Codes,Russell Bent,Michael Schear,Lane A. Hemaspaandra,Gabriel Istrate,,,,,,,,,,,,,,,,,,,,,,cs.IT
+73,A Comparison of Continuously Controlled and Controlled K-theory,Douglas R. Anderson,Francis X. Connolly,Hans J. Munkholm,,,,,,,,,,,,,,,,,,,,,,,math.KT
+74,A note on canonical functions,Thomas Jech,Saharon Shelah,,,,,,,,,,,,,,,,,,,,,,,,math.LO
+75,Conformal invariance in two-dimensional percolation,Robert Langlands,Philippe Pouliot,Yvan Saint-Aubin,,,,,,,,,,,,,,,,,,,,,,,math-ph
+76,Piercing convex sets,Noga Alon,Daniel J. Kleitman,,,,,,,,,,,,,,,,,,,,,,,,math.MG
+77,On the Selberg class of Dirichlet series: small weights,J. Brian Conrey,Amit Ghosh,,,,,,,,,,,,,,,,,,,,,,,,math.NT
+78,Some basic information on information-based complexity theory,Beresford N. Parlett,,,,,,,,,,,,,,,,,,,,,,,,,math.NA
+79,The Mackey-Gleason Problem,L. J. Bunce,J. D. Maitland Wright,,,,,,,,,,,,,,,,,,,,,,,,math.OA
+80,An exact analysis of stable allocation,Donald E. Knuth,,,,,,,,,,,,,,,,,,,,,,,,,math.OC
+81,Coupling and Harnack inequalities for Sierpinski carpets,Martin T. Barlow,Richard F. Bass,,,,,,,,,,,,,,,,,,,,,,,,math.PR
+82,"The multigraded Nijenhuis-Richardson Algebra, its universal property and
+  application",Pierre Lecomte,Peter W. Michor,Hubert Schicketanz,,,,,,,,,,,,,,,,,,,,,,,math.QA
+83,The moment mapping for a unitary representation,Peter W. Michor,,,,,,,,,,,,,,,,,,,,,,,,,math.RT
+84,A new measure of growth for countable-dimensional algebras,John Hannah,K. C. O'Meara,,,,,,,,,,,,,,,,,,,,,,,,math.RA
+85,Trace formulae and inverse spectral theory for Schrödinger operators,Fritz Gesztesy,Helge Holden,Barry Simon,Zhong Xin Zhao,,,,,,,,,,,,,,,,,,,,,,math.SP
+86,Nonparametric Volatility Density Estimation,Bert van Es,Peter Spreij,Harry van Zanten,,,,,,,,,,,,,,,,,,,,,,,math.ST
+87,Formality of canonical symplectic complexes and Frobenius manifolds,S. A. Merkulov,,,,,,,,,,,,,,,,,,,,,,,,,math.SG
+88,Gamma-Ray Bursts as the Death Throes of Massive Binary Stars,Ramesh Narayan,Bohdan Paczy?ski,Tsvi Piran,,,,,,,,,,,,,,,,,,,,,,,astro-ph
+89,A Field Theory for Finite Dimensional Site Disordered Spin Systems,David S. Dean,David Lancaster,,,,,,,,,,,,,,,,,,,,,,,,cond-mat.dis-nn
+90,Quantum transport in semiconductor-superconductor microjunctions,C. W. J. Beenakker,,,,,,,,,,,,,,,,,,,,,,,,,cond-mat.mes-hall
+91,Electronic Structure of Single- and Multiple-shell Carbon Fullerenes,Yeong-Lieh Lin,Franco Nori,,,,,,,,,,,,,,,,,,,,,,,,cond-mat.mtrl-sci
+92,"Thermodynamically consistent equilibrium properties of normal-liquid
+  Helium-3",M. Kollar,D. Vollhardt,,,,,,,,,,,,,,,,,,,,,,,,cond-mat.other
+93,"Structure Function of Polymer Nematic Liquid Crystals: A Monte Carlo
+  Simulation",Randall D. Kamien,Gary S. Grest,,,,,,,,,,,,,,,,,,,,,,,,cond-mat.soft
+94,Stable quasicrystalline ground states,Jacek Miekisz,,,,,,,,,,,,,,,,,,,,,,,,,cond-mat.stat-mech
+95,The Mott-Hubbard Transition on the D=infinity Bethe Lattice,Claudius Gros,Wolfgang Wenzel,Roser Valenti,Georg Huelsenbeck,Joachim Stolze,,,,,,,,,,,,,,,,,,,,,cond-mat.str-el
+96,"Transport and Boundary Scattering in Confined Geometries: Analytical
+  Results",R. Richardson,Franco Nori,,,,,,,,,,,,,,,,,,,,,,,,cond-mat.supr-con
+97,Non-Minimally Coupled Scalar Field and Ashtekar Variables,Riccardo Capovilla,,,,,,,,,,,,,,,,,,,,,,,,,gr-qc
+98,"An optimal method of moments to measure the charge asymmetry at the
+  $Z^0$",Nichol C. Brummer,,,,,,,,,,,,,,,,,,,,,,,,,hep-ex
+99,How to Put a Heavier Higgs on the Lattice,U. M. Heller,H. Neuberger,P. Vranas,,,,,,,,,,,,,,,,,,,,,,,hep-lat
+100,Comments on the Electroweak Phase Transition,M. Dine,R. G. Leigh,P. Huet,A. D. Linde,D. A. Linde,,,,,,,,,,,,,,,,,,,,,hep-ph
+101,Exact Black String Solutions in Three Dimensions,James H. Horne,Gary T. Horowitz,,,,,,,,,,,,,,,,,,,,,,,,hep-th
+102,Conformal invariance in two-dimensional percolation,Robert Langlands,Philippe Pouliot,Yvan Saint-Aubin,,,,,,,,,,,,,,,,,,,,,,,math-ph
+103,Dilepton production from p-p to Ca-Ca at the Bevalac,H. S. Matis,S. Beedoe,M. Bougteb,J. Carroll,W. Christie,W. Gong,T. Hallman,L. Heilbronn,H. Huang,P. N. Kirk,G. Krebs,G. Igo,A. Letessier-Selvon L. Madansky,F. Manso,J. Miller,C. Naudet,R. J. Porter,M. Prunet,G. Roche,L. S. Schroeder,P. Seidl,Z. F. Wang,R. Welsh,W. K. Wilson,A. Yegneswaran,nucl-ex
+104,"An Interactive NeXTstep Interface to a Fortran Code for Solving Coupled
+  Differential Equations",Richard R. Silbar,,,,,,,,,,,,,,,,,,,,,,,,,nucl-th
+105,Future Colliders,R. B. Palmer,J. C. Gallardo,,,,,,,,,,,,,,,,,,,,,,,,physics.acc-ph
+106,Comment on Enhanced TKE Dissipation under Breaking Waves,Gerrit Burgers,,,,,,,,,,,,,,,,,,,,,,,,,physics.ao-ph
+107,"Retarded long-range potentials for the alkali-metal atoms and a
+  perfectly conducting wall",M. Marinescu,A. Dalgarno,J. F. Babb,,,,,,,,,,,,,,,,,,,,,,,physics.atom-ph
+108,"Time-Dependent Local Density Approximation for Collective Excitations of
+  Atomic Clusters",G. F. Bertsch,K. Yabana,,,,,,,,,,,,,,,,,,,,,,,,physics.atm-clus
+109,Numerical observation of non-axisymmetric vesicles in fluid membranes,Yan Jie,Liu Quan-Hui,Liu Ji-Xing,Ou-Yang Zhong-Can,,,,,,,,,,,,,,,,,,,,,,physics.bio-ph
+110,A Simplified Approach to Optimally Controlled Quantum Dynamics,Jair Botina,Herschel Rabitz,Naseem Rahman,,,,,,,,,,,,,,,,,,,,,,,physics.chem-ph
+111,A Note on the Relativistic Covariance of the $B-$ Cyclic Relations,Valeri V. Dvoeglazov,,,,,,,,,,,,,,,,,,,,,,,,,physics.class-ph
+112,"Harmonic analysis of random number generators and multiplicative groups
+  of residue class rings",Oliver Schnetz,,,,,,,,,,,,,,,,,,,,,,,,,physics.comp-ph
+113,"Monte Carlo Implementation of Gaussian Process Models for Bayesian
+  Regression and Classification",Radford M. Neal,,,,,,,,,,,,,,,,,,,,,,,,,physics.data-an
+114,Jets from Collapsing Bubbles,J. I. Katz,,,,,,,,,,,,,,,,,,,,,,,,,physics.flu-dyn
+115,Developments in time analysis of particle and photon tunnelling,V. S. Olkhovsky,A. Agresti,,,,,,,,,,,,,,,,,,,,,,,,physics.gen-ph
+116,"Earthquake source parameters and fault kinematics in the Eastern
+  California Shear Zone",Laura E. Jones,Donald V. Helmberger,,,,,,,,,,,,,,,,,,,,,,,,physics.geo-ph
+117,Ludwig Boltzmann -- A Pioneer of Modern Physics,D. Flamm,,,,,,,,,,,,,,,,,,,,,,,,,physics.hist-ph
+118,Characterising a Si(Li) detector element for the SIXA X-ray spectrometer,T. Tikkanen,S. Kraft,F. Scholze,R. Thornagel,G. Ulm,,,,,,,,,,,,,,,,,,,,,physics.ins-det
+119,"A Method to Determine the In-Air Spatial Spread of Clinical Electron
+  Beams",M. Vilches,J. C. Zapata,D. Guirado,D. Fernández,D. Burgos,A. M. Lallena,,,,,,,,,,,,,,,,,,,,physics.med-ph
+120,Numerical Study on Space-Time Pulse Compression,M. E. Pietrzyk,,,,,,,,,,,,,,,,,,,,,,,,,physics.optics
+121,"Partnerships For Physics Teaching Reform -- a crucial role for
+  universities and colleges",David Hestenes,Jane Jackson,,,,,,,,,,,,,,,,,,,,,,,,physics.ed-ph
+122,"International Workshop on the Future of Physics and Society, Debrecen,
+  Hungary, 4-6 March 1999, Workshop Summary",Raymond S. Mackintosh,,,,,,,,,,,,,,,,,,,,,,,,,physics.soc-ph
+123,Resistive Magnetohydrodynamic Equilibria in a Torus,David Montgomery,Jason W. Bates,H. Ralph Lewis,,,,,,,,,,,,,,,,,,,,,,,physics.plasm-ph
+124,Book Review of Quantum Field Theory by Lewis H. Ryder,D. V. Ahluwalia,,,,,,,,,,,,,,,,,,,,,,,,,physics.pop-ph
+125,Pick-up ion dynamics at the structured quasi-perpendicular shock,D. Zilbersher,M. Gedalin,,,,,,,,,,,,,,,,,,,,,,,,physics.space-ph
+126,Photon Statistics of a Two-Mode Squeezed Vacuum,G. Schrade,V. M. Akulin,W. P. Schleich,V. I. Man'ko,,,,,,,,,,,,,,,,,,,,,,quant-ph
+127,Fixed Effect Estimation of Large T Panel Data Models,Iván Fernández-Val,Martin Weidner,,,,,,,,,,,,,,,,,,,,,,,,econ.EM
+128,"On the Conditioning of the Spherical Harmonic Matrix for Spatial Audio
+  Applications",C Sandeep Reddy,Rajesh M Hegde,,,,,,,,,,,,,,,,,,,,,,,,eess.AS
+129,Visual Quality Assessment of Panoramic Video,Mai Xu,Chen Li,Zulin Wang,Zhenzhong Chen,,,,,,,,,,,,,,,,,,,,,,eess.IV
+130,Bounds on Discrete Fourier Transform of Random Mask,Nematollah Zarmehi,Farokh Marvasti,,,,,,,,,,,,,,,,,,,,,,,,eess.SP
+131,On three filtering problems arising in mathematical finance,Damiano Brigo,Bernard Hanzon,,,,,,,,,,,,,,,,,,,,,,,,q-fin.CP
+132,Can Analysts Predict Rallies Better Than Crashes?,Ivan Medovikov,,,,,,,,,,,,,,,,,,,,,,,,,q-fin.EC
+133,"Fluctuations of company yearly profits versus scaled revenue: Fat tail
+  distribution of Levy type",H. E. Roman,R. A. Siliprandi,C. Dose,C. Riccardi,M. Porto,,,,,,,,,,,,,,,,,,,,,q-fin.GN
+134,Interest rate models and Whittaker functions,Dmitry Muravey,,,,,,,,,,,,,,,,,,,,,,,,,q-fin.MF
+135,"Asset Allocation and Risk Assessment with Gross Exposure Constraints for
+  Vast Portfolios",Jianqing Fan,Jingjin Zhang,Ke Yu,,,,,,,,,,,,,,,,,,,,,,,q-fin.PM
+136,"Discrete Time vs Continuous Time Stock-price Dynamics and implications
+  for Option Pricing",Damiano Brigo,Fabio Mercurio,,,,,,,,,,,,,,,,,,,,,,,,q-fin.PR
+137,A Stochastic Processes Toolkit for Risk Management,Damiano Brigo,Antonio Dalessandro,Matthias Neugebauer,Fares Triki,,,,,,,,,,,,,,,,,,,,,,q-fin.RM
+138,The Mirage of Triangular Arbitrage in the Spot Foreign Exchange Market,Daniel J. Fenn,Sam D. Howison,Mark McDonald,Stacy Williams,Neil F. Johnson,,,,,,,,,,,,,,,,,,,,,q-fin.ST
+139,The Minimal Model of Financial Complexity,Philip Maymin,,,,,,,,,,,,,,,,,,,,,,,,,q-fin.TR
